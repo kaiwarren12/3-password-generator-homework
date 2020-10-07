@@ -93,6 +93,7 @@ function generatePassword() {
   // step 6: put that string into the html - ref to element within html
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+
 }
+generateBtn.addEventListener("click", writePassword);
 
